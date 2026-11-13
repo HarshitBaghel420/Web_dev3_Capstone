@@ -8,6 +8,14 @@ A small web UI is included for the demonstration, but every feature is available
 
 ![Storefront](docs/screenshots/home.png)
 
+## Team
+
+| Name | Roll number | Primary responsibility |
+|---|---|---|
+| Harsh Dabas | 2501730061 | Authentication & security, checkout, atomic inventory, EventEmitter & Socket.IO |
+| Harshit Baghel | 2501730188 | Database design & models, products/categories/cart APIs, aggregation reports & indexes |
+| Mayank | 2501730253 | Validation & error-handling middleware, testing (automated + Postman), web UI, documentation |
+
 ## Features
 
 | Area | What is implemented |
