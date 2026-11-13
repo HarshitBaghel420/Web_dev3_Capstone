@@ -37,7 +37,7 @@ Node.js 18+, Express 4, MongoDB 6/7, Mongoose 9, jsonwebtoken, bcrypt, Joi, Sock
 ### Install and run
 
 ```bash
-git clone <this-repo-url> shopsphere && cd shopsphere
+git clone https://github.com/itsHarshDabas/shopsphere.git && cd shopsphere
 npm install
 cp .env.example .env        # then edit secrets if you like
 npm run seed                # creates demo users, products and 45 orders
