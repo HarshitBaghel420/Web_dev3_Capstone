@@ -1,5 +1,4 @@
-// Generates the Postman collection in /postman from a compact definition.
-// Run: node scripts/build-postman.js   (then: npm run test:postman)
+
 const fs = require('fs');
 const path = require('path');
 
